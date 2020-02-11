@@ -3,3 +3,4 @@ This is the first version.
 switched to branch 'master'.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
+branch management.
