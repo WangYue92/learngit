@@ -4,4 +4,4 @@ switched to branch 'master'.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 branch management.
-bug is ok
+bug is here.
